@@ -1,9 +1,10 @@
 import React from 'react';
+// import styles from '@styles/NotFound.scss';
 
 const NotFound = () => {
     return (
         <div>
-            Not Found, Error 404
+            Error 404, Not Found
         </div>
     );
 }
